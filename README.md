@@ -15,7 +15,7 @@
 - [未许之地](docs/stories/act47side.md)
 - [沃土](docs/stories/story_demkni_set_1.md)(塞雷娅)
 - [新茉莉酒馆](docs/stories/story_makiri_set_1.md)(松桐)
-- [新生]((docs/stories/story_philae_set_1.md)(菲莱)
+- [新生](docs/stories/story_philae_set_1.md)(菲莱)
 - [未来的痕迹](docs/stories/story_rfalcn_set_1.md)(红隼)
 ### 新增 角色
 - [魔王](docs/char_v3/char_4134_cetsyr.md)
