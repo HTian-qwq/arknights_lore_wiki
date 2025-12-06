@@ -8,7 +8,43 @@
 
 
 - [角色总表](docs/char_index.md) 
-- [活动总表](docs/story_index.md) 
+- [活动总表](docs/story_index.md)
+## 2025-12-06
+
+### 新增 活动/密录
+- [未许之地](docs/stories/act47side.md)
+- [沃土](docs/stories/story_demkni_set_1.md)(塞雷娅)
+- [新茉莉酒馆](docs/stories/story_makiri_set_1.md)(松桐)
+- [新生](docs/stories/story_philae_set_1.md)(菲莱)
+- [未来的痕迹](docs/stories/story_rfalcn_set_1.md)(红隼)
+### 新增 角色
+- [魔王](docs/char_v3/char_4134_cetsyr.md)
+- [娜斯提](docs/char_v3/char_4212_nasti.md)
+- [天空盒](docs/char_v3/char_4213_skybx.md)
+- [响石](docs/char_v3/char_4214_cairn.md)
+- [奥克里](docs/char_v3/extended_char_ao_ke_li.md)
+- [拂哀菈](docs/char_v3/extended_char_fu_ai_la.md)
+- [古斯塔夫](docs/char_v3/extended_char_gu_si_ta_fu.md)
+- [零五四](docs/char_v3/extended_char_ling_wu_si.md)
+- [梅希亚](docs/char_v3/extended_char_mei_xi_ya.md)
+- [斯凯](docs/char_v3/extended_char_si_kai.md)
+- [谢尔盖](docs/char_v3/extended_char_xie_er_gai.md)
+- [雅斯彭](docs/char_v3/extended_char_ya_si_peng.md)
+- [伊利亚](docs/char_v3/extended_char_yi_li_ya.md)
+### 更新 活动/密录
+- [风暴瞭望](docs/stories/main_9.md)
+### 更新 角色
+- [弑君者](docs/char_v3/char_1502_crosly.md)
+- [塞雷娅](docs/char_v3/char_202_demkni.md)
+- [缪尔赛思](docs/char_v3/char_249_mlyss.md)
+- [霍尔海雅](docs/char_v3/char_4027_heyak.md)
+- [锡人](docs/char_v3/char_4151_tinman.md)
+- [贾斯汀·菲茨罗伊](docs/char_v3/extended_char_5892e6.md)
+- [雅拉·布克·威尔森](docs/char_v3/extended_char_d1f8dc.md)
+- [斐尔迪南](docs/char_v3/extended_char_fei_er_di_nan.md)
+- [杰克逊](docs/char_v3/extended_char_jie_ke_xun.md)
+- [菈玛莲](docs/char_v3/extended_char_la_ma_lian.md)
+- [马里亚姆](docs/char_v3/extended_char_ma_li_ya_mu.md)
 ## 2025-11-03
 更新剧情- [雪山降临1101](docs/stories/act46side.md),
 更新角色 [耶拉](docs/char_v3/char_4013_kjera.md),[缪尔赛思](docs/char_v3/char_249_mlyss.md),[赫默](docs/char_v3/char_108_silent.md)
