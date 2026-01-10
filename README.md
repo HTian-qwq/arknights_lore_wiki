@@ -9,6 +9,34 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+## 2026-01-10
+
+### 新增 活动/密录
+- [雅赛努斯复仇记](docs/stories/act48side.md)
+- [像火一样燃烧](docs/stories/story_flamtl_set_1.md)(焰尾)
+- [月下舞者](docs/stories/story_ray_set_2.md)(莱伊)
+- [新东西](docs/stories/story_vendla_set_1.md)(刺玫)
+- [最后一次探险](docs/stories/story_wulfen_set_1.md)(钼铅)
+### 新增 角色
+- [缇缇](docs/char_v3/char_4056_titi.md)
+- [摆渡人](docs/char_v3/char_4166_varkis.md)
+- [赫卡德墨](docs/char_v3/extended_char_he_ka_de_mo.md)
+- [卡珊卓拉](docs/char_v3/extended_char_ka_shan_zhuo_la.md)
+- [里底娅](docs/char_v3/extended_char_li_di_ya.md)
+- [吕刻伊昂](docs/char_v3/extended_char_lv_ke_yi_ang.md)
+- [佩里安德洛斯](docs/char_v3/extended_char_pei_li_an_de_luo_si.md)
+- [西妮斯卡](docs/char_v3/extended_char_xi_ni_si_ka.md)
+
+### 更新 活动/密录
+- [反常光谱](docs/stories/main_16.md)
+### 更新 角色
+- [调香师](docs/char_v3/char_181_flower.md)
+- [莱伊](docs/char_v3/char_4117_ray.md)
+- [钼铅](docs/char_v3/char_4171_wulfen.md)
+- [焰尾](docs/char_v3/char_420_flamtl.md)
+- [帕拉斯](docs/char_v3/char_485_pallas.md)
+- [刺玫](docs/char_v3/char_494_vendla.md)
+- [米奥](docs/char_v3/extended_char_mi_ao.md)
 ## 2025-12-06
 
 ### 新增 活动/密录
